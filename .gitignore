@@ -1,0 +1,4 @@
+.vscode
+config_dev.php
+log/*.txt
+log/*.csv

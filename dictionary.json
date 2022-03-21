@@ -1,0 +1,14 @@
+{
+    "ru": {
+        "greeting": "Хорошо, я готов! Обещаю не врать! :)\nВведите город или отправьте геолокацию используя скрепку.",
+        "12h": "На 12 часов",
+        "3d": "На 3 дня",
+        "unknown-place": "Впервые слышу о таком месте! 🤷‍♂️"
+    },
+    "en": {
+        "greeting": "Ок, I'm ready! I promise you to tell the truth! :)\nSend me place name, or coordinates using attachment button.",
+        "12h": "For 12 hours",
+        "3d": "For 3 days",
+        "unknown-place": "Sorry, I've never heard of this place before! 🤷‍♂️"
+    }
+}
